@@ -87,3 +87,10 @@ B.  2019貳零壹玖 這本書的 ISBN
 
 #### 網路解析
 [uncle 想象家](https://www.youtube.com/watch?v=bES5kL9irUs)
+
+
+#### 成功預言
+
+#### 失敗預言
+- 川普連任
+

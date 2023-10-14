@@ -13,4 +13,4 @@ jobs:
     - name: Gitbook Action
       uses: zanderzhao/gitbook-action@v1.2.2
       with:
-        token: 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
+        token: ${{ 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 }}

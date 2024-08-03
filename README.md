@@ -1,6 +1,8 @@
+---
 title: README
+mdate: 2024-08-03 14:17:27
+mdevice: MacBook Pro 2022
+doc_id: 39dc0e41f88f413a86bd7072a8534d57
 date: 2023-10-12 14:11:45
-mdate: 2023-10-14 13:00:01
+---
 
-Hi, this is HumbleHorseOne(H2O)
-It is my last wish to share with you.
